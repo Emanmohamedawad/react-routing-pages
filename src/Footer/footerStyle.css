@@ -1,0 +1,25 @@
+.footer{
+   background-color: #2c3e50 ;
+   color: #fff !important;
+   bottom: 0;
+   left: 0;
+   right: 0;
+}
+.footer .container{
+   height: 45vh;
+}
+.icon-box{
+   background-color: transparent;
+   text-align: center;
+   padding: 10px;
+   border: 2px solid #fff;
+   width: 50px;
+   margin: 0 5px;
+   height: 50px;
+   border-radius: 25px;
+}
+.copy-right{
+   background-color: #1a252f;
+   color: #fff;
+   padding: 1%;
+}
